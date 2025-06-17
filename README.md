@@ -1,6 +1,7 @@
 # 👨‍💻 Muhammad Huzaifa – GitHub Portfolio
  
 I'm **Muhammad Huzaifa**, a passionate software engineer and AI developer from Lahore, Pakistan. I specialize in Android development, AI/ML applications, and full-stack software projects that solve real-world problems. With strong team leadership experience, I’ve led and collaborated on multiple projects from concept to deployment.
+
 ---
 
 ## 🔗 Contact
