@@ -1,6 +1,5 @@
 # 👨‍💻 Muhammad Huzaifa – GitHub Portfolio
-
-Welcome to my official GitHub profile repository!  
+ 
 I'm **Muhammad Huzaifa**, a passionate software engineer and AI developer from Lahore, Pakistan. I specialize in Android development, AI/ML applications, and full-stack software projects that solve real-world problems.
 
 ---
@@ -10,6 +9,25 @@ I'm **Muhammad Huzaifa**, a passionate software engineer and AI developer from L
 - 📧 Email: mianmhuzaifa@gmail.com  
 - 📱 Phone: +92 308 6142627
 - 🔗 LinkedIn: *https://www.linkedin.com/in/muhammad-huzaifa-5179b1195*
+
+---
+
+## 🧠 Skills Snapshot
+
+**Languages:** Python, Java, C++, C, Dart  
+**Frameworks:** TensorFlow, Keras, PyTorch, Flask, Retrofit  
+**Mobile Development:** Android SDK, Flutter  
+**Databases:** Firebase, Realtime DB, SQLite, MySQL, DynamoDB  
+**Tools & Platforms:** Android Studio, VS Code, Jupyter, Google Colab, AWS (Lambda, EC2, S3), Git  
+**Key Domains:** Machine Learning, Mobile Development, IoT, OCR, Image Processing
+
+---
+
+## 🏅 Certifications
+
+- ✅ **AI Python for Beginners** – DeepLearning.ai (May 2025)  
+- ✅ **Python for Data Science** – Udemy (June 2025)  
+- ✅ **Build MakeMore (by Andrej Karpathy)** – (June 2025)
 
 ---
 
@@ -102,23 +120,6 @@ An AI-based skin cancer detection mobile app for early diagnosis support.
 - Deployed model on AWS EC2 with Flask REST API; Flutter frontend handles image input and output.
 - Designed for real-time predictions to assist users with potential melanoma signs.
 - Focused on model accuracy, data privacy, and intuitive UI for non-medical users.
-
-## 🧠 Skills Snapshot
-
-**Languages:** Python, Java, C++, C, Dart  
-**Frameworks:** TensorFlow, Keras, PyTorch, Flask, Retrofit  
-**Mobile Development:** Android SDK, Flutter  
-**Databases:** Firebase, Realtime DB, SQLite, MySQL, DynamoDB  
-**Tools & Platforms:** Android Studio, VS Code, Jupyter, Google Colab, AWS (Lambda, EC2, S3), Git  
-**Key Domains:** Machine Learning, Mobile Development, IoT, OCR, Image Processing
-
----
-
-## 🏅 Certifications
-
-- ✅ **AI Python for Beginners** – DeepLearning.ai (May 2025)  
-- ✅ **Python for Data Science** – Udemy (June 2025)  
-- ✅ **Build MakeMore (by Andrej Karpathy)** – (June 2025)
 
 ---
 
