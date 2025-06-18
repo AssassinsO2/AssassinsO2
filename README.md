@@ -1,6 +1,6 @@
-# 👨‍💻 Muhammad Huzaifa – GitHub Portfolio
+# 👨‍💻 Muhammad Huzaifa – Portfolio
 
-I'm **Muhammad Huzaifa**, a passionate software engineer and AI developer from **Lahore, Pakistan**. I specialize in **Android development**, **machine learning**, **artificial intelligence**, and **system automation**. With strong team leadership experience, I’ve led and contributed to multiple impactful, real-world projects across mobile, AI, and full-stack domains.
+I'm **Muhammad Huzaifa**, a passionate software engineer and AI developer from **Lahore, Pakistan**. I specialize in **Android development**, **machine learning**, and **artificial intelligence**. With strong team leadership experience, I’ve led and contributed to multiple impactful, real-world projects across mobile, AI, and full-stack domains.
 
 ---
 
@@ -9,13 +9,12 @@ I'm **Muhammad Huzaifa**, a passionate software engineer and AI developer from *
 * 📧 Email: [mianmhuzaifa@gmail.com](mailto:mianmhuzaifa@gmail.com)
 * 📱 Phone: +92 308 6142627
 * 🔗 LinkedIn: [linkedin.com/in/muhammad-huzaifa-5179b1195](https://www.linkedin.com/in/muhammad-huzaifa-5179b1195)
-* 🔗 GitHub: [github.com/AssassinsO2](https://github.com/AssassinsO2)
 
 ---
 
 ### 🧠 Skills Snapshot
 
-**Languages:** Python, Java, C++, C, Dart
+**Languages:** Python, Java, C++, C, Dart, SQL
 **Frameworks & Libraries:** TensorFlow, Keras, PyTorch, Flask, Retrofit, OpenCV, EasyOCR
 **Mobile Development:** Android SDK, Flutter
 **Databases:** Firebase, Realtime DB, SQLite, MySQL, DynamoDB
@@ -44,11 +43,11 @@ Android app that predicts handwritten digits via CNN model hosted on AWS using F
 
 #### 🍬 Candy Crush – C++ Console Game
 
-Match-3 puzzle game with combo logic, colorful terminal display, and dynamic scoring. Uses arrays, LinkedLists, and Queues.
+Match-3,4,5 puzzle game with combo logic, colorful terminal display, and dynamic scoring. Uses 2D arrays, LinkedLists, and Queues.
 
 #### 📚 BookBlossom
 
-Reading and publishing app for public domain books with offline support, reviews, and educational content. Built with clean Android UI.
+A reading and publishing app for public domain books with offline support, reviews, and educational content. It is built with a clean Android UI.
 
 #### 🕒 TimeCircle – Live Clock Wallpaper
 
